@@ -58,7 +58,7 @@ Respondan en un párrafo corto:
 
 ¿Qué problema concreto quiere resolver el equipo y por qué vale la pena enfocarse en él?
 
-Hoy los estudiantes de Uninorte con una idea de proyecto no cuentan con un espacio que los acompañe antes de publicarla: no hay una guía para estructurarla, ni un mecanismo para encontrar colaboradores por afinidad de intereses o habilidades más allá de sus contactos conocidos, ni garantías de que su proyecto reciba visibilidad justa frente a otros de áreas más "populares". Esto hace que buenas ideas se queden sin desarrollar por miedo, falta de acompañamiento o falta de alcance, no por falta de mérito. Vale la pena resolverlo porque afecta a estudiantes de cualquier disciplina, no solo a quienes ya tienen redes de apoyo o vienen de programas STEM.
+Hoy los estudiantes de Uninorte con una idea de proyecto no cuentan con un espacio que los acompañe antes de publicarla: no cuentan con ninguna forma de saber si su idea está bien planteada antes de publicarla, ni un mecanismo para encontrar colaboradores por afinidad de intereses o habilidades más allá de sus contactos conocidos, ni garantías de que su proyecto reciba visibilidad justa frente a otros de áreas más "populares". Esto hace que buenas ideas se queden sin desarrollar por miedo, falta de acompañamiento o falta de alcance, no por falta de mérito. Vale la pena resolverlo porque afecta a estudiantes de cualquier disciplina, no solo a quienes ya tienen redes de apoyo o vienen de programas STEM.
 
 ---
 
@@ -82,4 +82,8 @@ La solución que diseñemos debería:
 
 - Herramientas avanzadas de diseño y análisis estadístico de encuestas de validación (solo un primer apoyo básico, no una suite completa).
 
-- Eliminar por completo la percepción de sesgo entre áreas de conocimiento; en esta etapa solo buscamos mitigarla desde la visibilidad, no resolverla del todo.
+- Eliminar por completo la percepción de sesgo entre áreas de conocimiento. En esta etapa solo buscamos mitigarla desde la visibilidad, no resolverla del todo.
+
+- Mostrar información detallada del proyecto (etapa, equipo, objetivo) antes de que alguien decida unirse.
+
+- Dar seguimiento visible a un proyecto durante su desarrollo y después de finalizado.
