@@ -16,7 +16,7 @@
 
 - Las barreras cambian según la carrera o el tipo de proyecto, no todos los estudiantes enfrentan las mismas dificultades.
 
-- La etapa más crítica del ciclo de vida de un proyecto es la inicial, antes de que exista siquiera un equipo o un prototipo.
+- La etapa más crítica del ciclo de vida de un proyecto es la inicial, antes de que exista siquiera un equipo o un prototipo, en la definición del proyecto.
 
 ---
 
@@ -60,7 +60,7 @@ Priorizamos que el estudiante pueda estructurar y validar su idea antes de publi
 
 - Aplazar la información transparente y la visibilidad continua sin dejarlo claro para el resto del equipo o del curso, dando a entender que se perdieron en lugar de haber sido una decisión consciente.
 
-- Confiar en necesidades que en realidad son sesgo de confirmación. Algunas de las entrevistas describieron la aplicación antes de preguntar por el problema, así que respuestas como los filtros de afinidad o la visibilidad por etapas pueden reflejar lo que el entrevistado imaginó a partir de esa descripción, y no una necesidad que ya tenía antes de conocer la propuesta. Conviene tener esto presente al momento de sustentar los hallazgos frente al equipo docente.
+- Existe el riesgo de que estemos confiando en una necesidad que no tenían los usuarios previamente sino que es resultado de sesgo de confirmación. En uno de los casos se dio una descripción breve de la aplicación antes de preguntar por sus problemas en proyectos de innovación, por lo que su respuesta puede reflejar lo que pensó a partir de ella y no una necesidad que ya tuviera.
 
 ---
 
