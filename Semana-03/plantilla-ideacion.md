@@ -46,34 +46,20 @@ Seleccionen entre 2 y 4 flujos para trabajar esta semana.
 
 ### Flujo 1
 
-**Nombre del flujo:**
+**Nombre del flujo:** Crear una idea con estructura guiada
 
 **¿Qué quiere lograr el usuario en este flujo?**
+- Publicar su propuesta de proyecto sintiendo que está bien planteada, sin que le falte información clave ni se preste a malinterpretación.
 
 **¿Por qué este flujo es importante?**
+- Es el punto de partida de todo el ciclo de vida de un proyecto en el sistema. Si el estudiante no logra publicar su idea con confianza, no llega a las etapas de formación de equipo, validación ni prototipado. Además reduce la ansiedad o temor de exponer una idea incompleta o mal estructurada, identificado como una de las barreras en la semana 2.
 
 ### Flujo 2
 
-**Nombre del flujo:**
+**Nombre del flujo:** Explorar y filtrar proyectos por interés o habilidad
 
 **¿Qué quiere lograr el usuario en este flujo?**
+- Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin depender de conocer previamente al líder del proyecto.
 
 **¿Por qué este flujo es importante?**
-
-### Flujo 3
-
-**Nombre del flujo:**
-
-**¿Qué quiere lograr el usuario en este flujo?**
-
-**¿Por qué este flujo es importante?**
-
-### Flujo 4
-
-**Nombre del flujo:**
-
-**¿Qué quiere lograr el usuario en este flujo?**
-
-**¿Por qué este flujo es importante?**
-
-> Si el equipo solo va a trabajar 2 o 3 flujos, puede dejar vacío el último.
+- Es el punto de entrada equivalente pero desde el lado del colaborador, y es donde se pone a prueba si una idea está lo bastante clara para que alguien externo identifique si le interesa. Ataca la necesidad de encontrar colaboradores más allá del círculo cercano, la segunda necesidad priorizada.
