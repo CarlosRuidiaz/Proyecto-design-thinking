@@ -2,60 +2,41 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 4
 
-**Integrantes:**
+**Integrantes:** Juan Bolívar, Claudia Elías, Juan Rojas, Carlos Ruidíaz
 
 ---
 
 ## Recordatorio del problema
 
-Escriban su POV o problema en una sola frase.
+A los estudiantes de Uninorte con una idea de proyecto les cuesta publicarla, estructurarla y encontrar colaboradores adecuados, porque temen exponerse sin preparación o sin respaldo. 
 
 ---
 
 ## Pregunta guía
 
-Completen esta estructura:
-
-`¿Cómo podríamos...?`
-
-Ejemplo:
-
-`¿Cómo podríamos ayudar a los estudiantes a encontrar personas interesadas en sus ideas?`
+¿Cómo podríamos ayudar a un estudiante a preparar y presentar su idea con la confianza suficiente para encontrar colaboradores adecuados? 
 
 ---
 
 ## Flujos posibles de la aplicación
 
-Antes de elegir, piensen en los posibles flujos o recorridos que podría tener la aplicación.
+1. Crear una idea con estructura guiada
 
-Ejemplos de flujo:
+2. Validar una idea antes de reclutar colaboradores
 
-- Proponer una idea.
-- Explorar ideas de otros estudiantes.
-- Unirse a una idea.
-- Formar equipo.
-- Publicar un prototipo.
-- Recibir apoyo o respuestas de la comunidad.
+3. Publicar un prototipo o avance para recibir feedback
 
-Registren al menos 6 flujos posibles.
+4. Explorar y filtrar proyectos por interés
 
-1.
+5. Aplicar a un proyecto como colaborador
 
-2.
+6. Revisar y aceptar postulantes como líder de un proyecto
 
-3.
+7. Ver el detalle completo de un proyecto
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Seguir un proyecto sin unirse al equipo
 
 ---
 
