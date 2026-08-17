@@ -53,9 +53,9 @@ Publicar su propuesta de proyecto sintiendo que está bien planteada, sin que le
 4. Confirmación con resumen y acciones ("Ver mi idea publicada" / "Crear otra idea")
 ### Evidencia en Figma
  
-**Enlace versión A:**  Pendiente — agregar el link del prototipo
+**Enlace versión A:**  https://www.figma.com/make/EYCSinkiReS84I3I1nVIF9/Flujo-1---Prototipo-1?fullscreen=1&t=fiaQC7yDwc92TP9M-1&code-node-id=0-6
  
-**Enlace versión B:**  Pendiente — agregar el link del prototipo
+**Enlace versión B:**  https://www.figma.com/make/OcFDvfIIOGetc0vA18iUUq/Flujo-1---Prototipo-2?fullscreen=1&t=hAbD6BCbFSpwty9Y-1&code-node-id=0-6
  
 ### Resultado de la validación exploratoria
  
