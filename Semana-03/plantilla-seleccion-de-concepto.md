@@ -16,9 +16,15 @@ Registren los flujos que el equipo decidió trabajar esta semana.
 
 **Nombre del flujo:**
 
+Crear una idea con estructura guiada
+
 **¿Por qué merece prioridad?**
 
+Es el punto de partida de todo el ciclo de vida de un proyecto en el sistema: si el estudiante no logra publicar su idea con confianza, no llega a las etapas de formación de equipo, validación ni prototipado. Además ataca directamente la barrera identificada desde la semana 2: el miedo a exponer una idea incompleta o mal estructurada.
+
 **¿Qué pasaría si este flujo no funciona bien?**
+
+Los estudiantes seguirían sin publicar sus ideas o publicarían propuestas incompletas/mal explicadas que se malinterpretan, lo que reforzaría justo el problema que el proyecto busca resolver. Como es la puerta de entrada al sistema, si falla acá, ningún otro flujo (buscar colaboradores, validar, prototipar) llega a activarse.
 
 ### Flujo 2
 
