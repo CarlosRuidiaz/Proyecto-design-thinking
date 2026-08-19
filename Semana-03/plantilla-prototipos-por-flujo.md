@@ -87,9 +87,10 @@ Repitan esta estructura para cada flujo priorizado. Si el equipo trabaja solo 2 
 
 ## Flujo 2
 
-**Nombre del flujo:**
+**Nombre del flujo:** Explorar y filtrar proyectos por interés o habilidad
 
 **¿Qué quiere lograr el usuario en este flujo?**
+Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin depender de conocer previamente al líder del proyecto.
 
 ### Versión A: paso a paso
 
@@ -107,27 +108,28 @@ Repitan esta estructura para cada flujo priorizado. Si el equipo trabaja solo 2 
 
 ### Versión B: paso a paso
 
-1. El usuario...
-2. Luego...
-3. Después...
-4. Finalmente...
+1. El usuario abre la pantalla "Explorar proyectos" y ve la lista de proyectos publicados, con una barra de búsqueda en la parte superior.
+2. Toca el botón "Filtros" para refinar la búsqueda por habilidad, programa académico o etapa del proyecto.
+3. Selecciona los filtros que le interesan y toca "Aplicar filtros", volviendo a la lista ya filtrada con el número de filtros activos visible.
+4. Finalmente, toca una tarjeta de proyecto para ver el detalle completo y decide si aplicar o seguir el proyecto.
 
 ### Versión B: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+1. Explorar proyectos (barra de búsqueda + lista de tarjetas)
+2. Filtros (habilidades, programa académico, etapa del proyecto)
+3. Resultados filtrados (lista actualizada + indicador de filtros activos)
+4. Detalle del proyecto (descripción, etapa, miembros, botones Aplicar/Seguir)
 
 ### Evidencia en Figma
 
 **Enlace versión A:**
 
-**Enlace versión B:**
+**Enlace versión B:** https://www.figma.com/make/6JYmSNSr9tsQS9pKZhFy2u/Flujo-2--Explorar-y-filtrar-proyectos-por-inter%C3%A9s-o-habilidad--Community-?t=qA4EPJPHhC3MHUCp-1
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
+Danna Robles (Estudiante de ingeniería civil)
 
 **¿Qué reacción generó la versión A?**
 
