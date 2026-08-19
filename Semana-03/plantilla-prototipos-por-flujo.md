@@ -61,30 +61,26 @@ Publicar su propuesta de proyecto sintiendo que está bien planteada, sin que le
  
 **¿Con quién se probó este flujo?**
  
- Pendiente — falta mostrar ambos prototipos a alguien fuera del equipo y registrar su reacción
+2 Estudiantes de la carrera de ingeniera de sistemas
  
-**¿Qué reacción generó la versión A?**
- 
-- Pendiente
-- 
-- 
-**¿Qué reacción generó la versión B?**
- 
--  Pendiente
-- 
-- 
+**¿Qué reacción generó la versión A? (Prototipo 1 – multi-step)**
+
+Fue medio mixta. Les gustó que al ir paso a paso uno piensa mejor cada cosa, sin sentirse abrumado con todo junto. Pero les preocupó que las primeras 3 preguntas (problema, objetivo, descripción) se sienten muy pegadas entre sí. Como no sabes qué te va a preguntar después, es fácil terminar metiendo toda la info en la primera pregunta y repitiéndote en las siguientes. También alguien comentó que la tipografía le recordaba mucho a Claude.
+
+**¿Qué reacción generó la versión B? (Prototipo 2 – una sola vista)**
+
+Esta gustó más. Les gustó la barra de progreso, que se pueda guardar como borrador, y sobre todo que todo esté en una sola página sin tener que estar dale que dale al botón de "siguiente". También les pareció mejor tener todas las preguntas visibles de una vez en lugar de ir por pasos, porque así se evita el lío de repetir info que pasaba en la versión A.
+
 ### Versión seleccionada para la semana 4
- 
-**Versión elegida:**
- 
- Pendiente — se define después de la validación exploratoria
- 
+
+**Versión elegida:** Versión B (una sola vista)
+
 **¿Por qué?**
- 
-- 
-- 
-- 
----
+
+No tiene el problema de repetición/infodump que sí tenía la A
+Se navega mejor, sin estar presionando "siguiente" a cada rato
+Tiene guardar como borrador, que es un plus
+La barra de progreso se ve más clara
  
 
 ## Flujo 2
