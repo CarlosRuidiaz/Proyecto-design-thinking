@@ -90,21 +90,19 @@ Repitan esta estructura para cada flujo priorizado. Si el equipo trabaja solo 2 
 **Nombre del flujo:** Explorar y filtrar proyectos por interés o habilidad
 
 **¿Qué quiere lograr el usuario en este flujo?**
-Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin depender de conocer previamente al líder del proyecto.
+Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin depender de conocer previamente al líder del proyecto y con confianza de que el proyecto sí está relacionado a lo que busca.
 
 ### Versión A: paso a paso
 
-1. El usuario...
-2. Luego...
-3. Después...
-4. Finalmente...
+1. El usuario abre la aplicación y ve en la pantalla de incio proyectos sugeridos para él.
+2. Luego toca "More Projects" para visualizar todos los proyectos publicados en la plataforma.
+3. Después, el usuario puede seleccionar un filtro para reducir los resultados al área que realmente es de su interés o proyectos con las habilidades especificas.
+4. Finalmente el usuario puede revisarf la lista de proyectos filtrados por uno o ambos criterios.
 
 ### Versión A: pantallas o momentos clave
-
-1.
-2.
-3.
-4.
+1. Pantalla de inicio o Home.
+2. All Projects, donde visualiza todos los proyectos disponibles.
+3. All Projects y aplicar uno o más filtros de categoría y/o habilidad. 
 
 ### Versión B: paso a paso
 
@@ -122,7 +120,7 @@ Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin 
 
 ### Evidencia en Figma
 
-**Enlace versión A:**
+**Enlace versión A:** https://www.figma.com/proto/iUUhXhvyYxPlx9SoyFjG4n/FLUJO-Explorar-y-flitrar-por-habilidad-o-inter%C3%A9s?node-id=36-94&p=f&t=a7BtC5g2jMJFmnQO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 **Enlace versión B:** https://www.figma.com/make/6JYmSNSr9tsQS9pKZhFy2u/Flujo-2--Explorar-y-filtrar-proyectos-por-inter%C3%A9s-o-habilidad--Community-?t=qA4EPJPHhC3MHUCp-1
 
