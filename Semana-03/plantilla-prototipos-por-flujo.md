@@ -60,7 +60,7 @@ Publicar su propuesta de proyecto sintiendo que está bien planteada, sin que le
  
 **¿Con quién se probó este flujo?**
  
-2 Estudiantes de la carrera de ingeniera de sistemas
+2 estudiantes del programa de Ingeniería de Sistemas y Computación de la Universidad del Norte
  
 **¿Qué reacción generó la versión A? (Prototipo 1 – multi-step)**
 
