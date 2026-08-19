@@ -5,10 +5,9 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 4
 
-**Integrantes:**
-
+**Integrantes:** Juan Bolívar, Claudia Elías, Juan Rojas, Carlos Ruidíaz
 ---
 
 ## Instrucción general
