@@ -70,33 +70,38 @@ Expliquen brevemente:
 
 ¿Con quién validaron los prototipos de baja resolución?
 
-- [ ] Usuario potencial
-- [ ] Compañero
-- [ ] Otro:
+- [X] Usuarios potenciales
+
 
 ¿Cuántas personas participaron en total?
 
-**Cantidad:**
+**Cantidad:** 3 personas (2 para el Flujo 1, 1 para el FLujo 2)
 
 ### Flujo 1
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
+- La versión A (paso a paso) generó una reacción mixta, gustó pensar cada pregunta por separado, pero las primeras preguntas se sintieron tan relacionadas entre sí que era fácil terminar respondiendo lo mismo varias veces.
 
-- 
+- La versión B (una sola vista) gustó más por evitar esa repetición, por no depender de presionar "Siguiente" varias veces, y por incluir guardado como borrador.
+
+- La barra de progreso de la versión B se percibió más clara que el indicador de pasos de la versión A.
 
 **¿Qué versión pasa a la semana 4?**
 
-- 
+- Versión B
 
 ### Flujo 2
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
+- La versión A se sintió más familiar visualmente, al estar diseñada más como la pantalla real de un celular, y con un tamaño de letra que se percibió más agradable.
 
-- 
+- La versión B tuvo mejor recepción en la parte funcional, los filtros se sintieron mejor aplicados y organizados, y la estructura del paso a paso resultó más clara de seguir.
 
+- La preferencia visual por A no compitió con la preferencia estructural por B, ambas reacciones apuntan a cosas distintas del prototipo.
+  
 **¿Qué versión pasa a la semana 4?**
 
-- 
+- Versión B
 
 ### Flujo 3
 
@@ -112,8 +117,9 @@ Expliquen brevemente:
 
 ¿Qué flujos y qué versiones pasan a la semana 4?
 
-- 
-- 
+- Flujo 1 (Crear una idea con estructura guiada) — Versión B (una sola vista).
+- Flujo 2 (Explorar y filtrar proyectos por interés o habilidad) — Versión B.
+
 
 ---
 
@@ -121,9 +127,11 @@ Expliquen brevemente:
 
 ¿Por qué estas decisiones parecen las mejores para avanzar después de la validación exploratoria?
 
-- 
-- 
-- 
+- En ambos flujos, la versión B resolvió mejor el objetivo funcional del flujo (evitar repetición de información en el Flujo 1, aplicar filtros con claridad en el Flujo 2), que es justamente lo que esta semana buscaba poner a prueba.
+
+- En los dos casos, la preferencia por B fue explícita y con razones concretas (guardado como borrador y barra de progreso en el Flujo 1, filtros y estructura en el Flujo 2), no solo que tuvieran una preferencia estética.
+
+- El objetivo de esta etapa es validar la estructura del flujo, no la apariencia final, así que las ventajas funcionales de B pesan más que la sensación más familiar que generó la versión A del Flujo 2.
 
 ---
 
@@ -131,9 +139,11 @@ Expliquen brevemente:
 
 ¿Qué cosas siguen sin estar claras y deben validarse mejor en la semana 4?
 
-- 
-- 
-- 
+- En ambos flujos la muestra de validación fue pequeña, falta confirmar con más usuarios si la preferencia por la versión B se sostiene.
+
+- El botón "Ver proyectos publicados" en la pantalla de confirmación del Flujo 1 no tiene funcionalidad definida todavía, falta decidir si pertenece a este flujo o al Flujo 2.
+
+- Para el Flujo 2, la versión A generó una reacción visual positiva que la versión B no logró. Vale la pena revisar en la semana 4 si algo de ese estilo más "de pantalla real" se puede incorporar a la versión B sin perder su ventaja estructural.
 
 ---
 
@@ -141,8 +151,8 @@ Expliquen brevemente:
 
 Completen las frases:
 
-`Creemos que los usuarios valorarán...`
+`Creemos que los usuarios valorarán...` una experiencia de creación de idea que no los haga repetir información, con una barra de progreso clara y la posibilidad de guardar como borrador, así como un sistema de filtros simple que les permita encontrar proyectos afines sin depender de conocer al líder.
 
-`Creemos que los usuarios usarán esta solución porque...`
+`Creemos que los usuarios usarán esta solución porque...` reduce el miedo a exponer una idea mal estructurada y les da una forma confiable de encontrar proyectos o colaboradores fuera de su círculo cercano de conocidos.
 
-`Sabremos que vamos por buen camino si...`
+`Sabremos que vamos por buen camino si...` al probar las versiones B con más usuarios, la preferencia por la estructura y los filtros se mantiene, y si los usuarios logran completar ambos flujos sin necesitar ayuda externa para entender qué hacer en cada paso.
