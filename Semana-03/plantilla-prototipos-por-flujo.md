@@ -124,30 +124,29 @@ Encontrar proyectos que le interesen o donde pueda aportar sus habilidades, sin 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
-Danna Robles (Estudiante de ingeniería civil)
+
+Una compañera de ingeniería civil, como usuario potencial del sistema.
 
 **¿Qué reacción generó la versión A?**
-
-- 
-- 
-- 
-
+ 
+- Se sintió más familiar y cómoda de ver, al estar diseñada más como la pantalla real de un celular.
+- El tamaño de letra le pareció más agradable de leer.
+- En cuanto a los filtros, los sintió menos claros que en la versión B.
 **¿Qué reacción generó la versión B?**
-
-- 
-- 
-- 
-
+ 
+- Consideró que los filtros están mejor aplicados y organizados.
+- La estructura y el paso a paso del flujo le resultaron más claros y fáciles de seguir.
+- No mencionó objeciones frente a la estructura general del recorrido.
 ### Versión seleccionada para la semana 4
-
-**Versión elegida:**
-
+ 
+**Versión elegida:** Versión B
+ 
 **¿Por qué?**
-
-- 
-- 
-- 
-
+ 
+- Aunque la versión A generó una sensación visual más familiar, el usuario prefirió explícitamente la estructura y los pasos de la versión B.
+- Los filtros, que son el elemento central de este flujo, funcionan mejor en la versión B según la reacción obtenida.
+- El objetivo de esta semana es validar la estructura del flujo, no la estética final, así que la preferencia sobre la forma de los pasos pesa más que la apariencia tipo pantalla de celular.
+ 
 ---
 
 ## Flujo 3
