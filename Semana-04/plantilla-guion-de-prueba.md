@@ -27,7 +27,7 @@ Estudiantes de Uninorte de distintos programas académicos, no solo de Ingenier�
 
 ¿Cuántas personas esperan invitar en esta validación?
 
-**Cantidad esperada:** ⚠️ Pendiente — definan un número mayor a las 3 personas de la semana 3 (la instrucción pide "mayor amplitud"); ajusten según lo que el equipo pueda conseguir.
+**Cantidad esperada:** 5 personas, un número mayor a las 3 de la semana 3, buscando además mayor diversidad de programas académicos.
 
 ---
 
@@ -99,20 +99,24 @@ Escriban entre 3 y 5 tareas o preguntas para la sesión.
 
 ¿Con cuántas personas aplicaron esta validación?
 
-**Cantidad:** 3 personas (estudiante de 6to semestre de Ingeniería Mecánica, estudiante de 8vo semestre de Ingeniería de Sistemas, estudiante de 8vo semestre de Diseño Gráfico)
+**Cantidad:** 5 personas (estudiante de 6to semestre de Ingeniería Mecánica, estudiante de 8vo semestre de Ingeniería de Sistemas, estudiante de 8vo semestre de Diseño Gráfico, 2 estudiantes de 8vo semestre de Ingeniería Civil)
 
 ¿Qué ocurrió de manera general durante la prueba?
 
-- Las tres personas completaron el recorrido de crear una idea y explorar proyectos con relativa facilidad, sin necesitar ayuda directa para seguir las instrucciones.
+- Las cinco personas completaron el recorrido de crear una idea y explorar proyectos con relativa facilidad, sin necesitar ayuda directa para seguir las instrucciones.
 
-- El botón "Aplicar" generó confusión repetida: tanto la estudiante de Mecánica como la de Diseño Gráfico no entendieron a primera vista que se refería a postularse a un proyecto, y no a aplicar un cambio o configuración.
+- El botón "Aplicar" generó confusión repetida: la estudiante de Mecánica, la de Diseño Gráfico y uno de los dos estudiantes de Civil no entendieron a primera vista que se refería a postularse a un proyecto, y no a aplicar un cambio o configuración.
 
-- Después de publicar una idea, dos de las tres personas (Sistemas y Diseño Gráfico) no supieron cómo volver a encontrar su propio proyecto ya creado.
+- Después de publicar una idea, dos de las tres primeras personas (Sistemas y Diseño Gráfico) no supieron cómo volver a encontrar su propio proyecto ya creado; los dos estudiantes de Civil tampoco lo lograron a la primera y terminaron usando el botón de "Volver" repetidas veces hasta encontrarlo por casualidad.
 
 - El botón "Crear proyecto" no fue fácil de encontrar al principio para la estudiante de Diseño Gráfico; sugirió ubicarlo en una posición más visible (arriba, o en una barra de navegación inferior si se agrega en el futuro).
 
-- Los filtros funcionan y devuelven resultados relevantes (todas coincidieron en esto), pero según la estudiante de Diseño Gráfico, al entrar al detalle de un proyecto no se ven reflejadas las categorías/tags por las que se filtró, lo que dificulta identificar a qué categoría pertenece un proyecto para quien navega sin usar filtros.
+- Los filtros funcionan y devuelven resultados relevantes (así lo percibieron cuatro de las cinco personas), pero según la estudiante de Diseño Gráfico, al entrar al detalle de un proyecto no se ven reflejadas las categorías/tags por las que se filtró, lo que dificulta identificar a qué categoría pertenece un proyecto para quien navega sin usar filtros.
 
-- Calificación del 1 al 5 sobre la claridad del recorrido: 4.5 (Mecánica), 5 (Sistemas), 4 (Diseño Gráfico).
+- Uno de los estudiantes de Civil comentó que el formulario de crear idea se siente "más largo de lo que esperaba" para una primera vez usando la app, aunque reconoció que ningún campo en particular le pareció innecesario.
 
-- Observación adicional del equipo (no de los participantes): a pesar de seguir las instrucciones con facilidad, ninguna de las tres personas entendió a primera vista qué es la aplicación en sí. Se identifica como oportunidad de mejora agregar un párrafo introductorio al inicio explicando el propósito de la app antes de mostrar los proyectos publicados.
+- El otro estudiante de Civil destacó positivamente que la app se sintiera "clara" y "sin muchas vueltas" para publicar una idea, y que los filtros de exploración le parecieron intuitivos desde el primer intento.
+
+- Calificación del 1 al 5 sobre la claridad del recorrido: 4.5 (Mecánica), 5 (Sistemas), 4 (Diseño Gráfico), 4 y 4.5 (los dos estudiantes de Civil).
+
+- Observación adicional del equipo (no de los participantes): a pesar de seguir las instrucciones con facilidad, ninguna de las cinco personas entendió a primera vista qué es la aplicación en sí. Se identifica como oportunidad de mejora agregar un párrafo introductorio al inicio explicando el propósito de la app antes de mostrar los proyectos publicados.
