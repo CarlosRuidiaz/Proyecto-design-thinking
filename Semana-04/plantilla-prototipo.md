@@ -5,9 +5,9 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 4
 
-**Integrantes:**
+**Integrantes:** Juan Bolívar, Claudia Elías, Juan Rojas, Carlos Ruidíaz
 
 ---
 
@@ -15,13 +15,10 @@
 
 Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
 
-1.
+1. Crear una idea con estructura guiada (Versión B)
 
-2.
+2. Explorar y filtrar proyectos por interés o habilidad (Versión B)
 
-3.
-
-4.
 
 ---
 
@@ -29,25 +26,29 @@ Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
 
 ¿Qué quieren mostrar o comprobar al integrar estos flujos en un solo prototipo?
 
+Comprobar que un estudiante puede recorrer el camino completo del sistema desde publicar su propia idea hasta buscar y encontrar ideas de su interés, sin perderse ni necesitar ayuda externa, y que la preferencia por la versión B de cada flujo (validada por separado en la semana 3) se mantiene cuando ambos flujos están conectados en una sola experiencia.
+
 ---
 
 ## Alcance
 
 ¿Qué sí incluirá el prototipo?
 
-1.
+1. Pantalla principal tipo feed, con pestañas "Proyectos sugeridos" y "Explorar proyectos", y un botón flotante "+" para acceder a "Crear idea"
 
-2.
+2. El flujo completo de creación de idea (versión B: campos con ayuda contextual, barra de progreso, guardado como borrador, confirmación)
 
-3.
+3. El flujo completo de exploración y filtrado de proyectos (versión B: búsqueda, filtros, resultados, detalle del proyecto)
 
 ¿Qué no incluirá por ahora?
 
-- 
+- Formación de equipos o revisión/aceptación de postulantes (flujo 6 de la lista original)
 
-- 
+- Validación de una idea antes de reclutar colaboradores (flujo 2 de la lista original)
 
-- 
+- Sistema de encuestas de validación dentro de la app
+
+- Diseño visual final, es un diseño de baja/media fidelidad
 
 ---
 
@@ -55,17 +56,16 @@ Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
 
 Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
-1.
+1. La pantalla principal es un feed con pestañas "Proyectos sugeridos" y "Explorar proyectos" (esta última con barra de búsqueda y botón de filtros), y botón flotante "+" para crear una idea
 
-2.
+2. Crear idea, sección con formulario único con campos y ayuda contextual y también una barra de progreso
 
-3.
+3. Confirmación de idea publicada
 
-4.
+4. Filtros de habilidad, programa académico, etapa del proyecto para los proyectos publicados
 
-5.
+5. Detalle del proyecto con descripción, etapa, miembros, botones Aplicar/Seguir
 
-6.
 
 ---
 
