@@ -62,14 +62,20 @@ Lo que sigue sin estar claro después de esta validación:
 
 ¿Qué podría hacer que los resultados de la prueba sean confusos o poco útiles?
 
-- 
+- La muestra creció a 5 personas frente a las 3 de la semana 3, así que la ampliación que pedía la consigna sí se cumplió, pero sigue siendo pequeña frente al total de estudiantes de la universidad. Más importante que el tamaño es su composición: cuatro de las cinco personas vienen de ingeniería (Mecánica, Sistemas y dos de Civil) y una de Diseño Gráfico, sin ninguna de ciencias humanas o sociales. Justamente el sesgo entre áreas STEM y no STEM fue una de las preocupaciones que dio origen a este proyecto en la semana 1, así que probar casi solo con ingenierías es un riesgo directo sobre la validez de lo que estamos concluyendo.
 
-- 
+- Cuatro de los hallazgos se sostienen en una sola voz: el botón de crear difícil de encontrar, las categorías ausentes en el detalle, la sensación de formulario largo y la persona que no percibió útiles los filtros. Conviene tratarlos como pistas por confirmar y no como conclusiones, salvo cuando el problema es verificable en el diseño mismo, como pasa con las categorías.
 
-- 
+- El cambio de diseño (pantalla principal tipo feed con pestañas) no fue validado por separado antes de integrarse, a diferencia de los flujos de crear idea y explorar proyectos que sí pasaron por la validación exploratoria de la semana 3.
+
+- El guion le indicaba al usuario qué tarea realizar en cada momento, lo que enmascaró el problema de comprensión general. Las cinco personas siguieron las instrucciones sin dificultad y aun así ninguna entendió por sí sola qué es la aplicación. Es decir, la prueba midió bien la navegabilidad pero midió poco la comprensión de la propuesta, y ese sesgo hay que corregirlo en el guion de la semana 5.
+
+- El prototipo se construyó en dos momentos y con dos herramientas: primero las pantallas se armaron manualmente en Figma Design, por un equipo que todavía estaba aprendiendo a usarlo, y solo después se recurrió a Figma Make para generar una versión interactiva a partir de ese diseño. Eso abría dos riesgos, que quedaran diferencias entre la versión hecha a mano y la generada, y que Make devolviera pantallas más pulidas de lo que pide una validación de baja o media fidelidad, desviando la atención del usuario hacia la estética. Ninguno de los dos llegó a materializarse: ninguna de las cinco personas hizo comentarios sobre la apariencia, y las observaciones se concentraron en la navegación y en los nombres de los botones, que era justamente el objetivo de la prueba.
 
 ---
 
 ## Conclusión del equipo
 
 Escriban un párrafo corto explicando si sienten que el prototipo es suficiente para aprender algo valioso de los usuarios.
+
+Sí, el prototipo fue suficiente, y lo más útil es que dejó de responder únicamente lo que le preguntamos. Las tres dudas con las que entramos se resolvieron rápido y a favor del diseño, las cinco personas recorrieron ambos flujos sin ayuda y calificaron la claridad entre 4 y 5, pero el valor real estuvo en lo que no habíamos previsto. Dos hallazgos aparecieron con fuerza suficiente para actuar sobre ellos de inmediato: que ninguna de las cinco personas entendió por sí sola qué es la aplicación, y que cuatro de cinco no lograron volver a su propia idea después de publicarla. Ambos tienen la misma causa, que es el alcance que recortamos a propósito al dejar fuera el onboarding y el perfil de usuario, así que no son fallas de la herramienta ni de la muestra sino consecuencias de nuestras decisiones. Otros hallazgos, como el nombre del botón "Aplicar" o la ausencia de categorías en el detalle, se explican por el vocabulario y por lo que dejamos de especificar, y eso los vuelve corregibles sin rediseñar nada de fondo. Lo que sí reconocemos como límite es la composición de la muestra: crecimos de 3 a 5 personas, pero cuatro de ellas son de ingeniería y ninguna de ciencias humanas, que es precisamente el sesgo que este proyecto quería evitar reforzar. Corregir eso en la semana 5, junto con un guion que no le vaya diciendo al usuario qué hacer, es tan importante como resolver los hallazgos de esta semana.
