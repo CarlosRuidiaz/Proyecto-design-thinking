@@ -12,9 +12,9 @@
 
 ## Pruebas realizadas
 
-**Cantidad de personas participantes: 8 personas**
+**Cantidad de personas participantes: 9 personas**
 
-**Tipo de usuarios consultados: estudiantes de Ingeniería de Sistemas, Ingeniería Industrial y Diseño Gráfico.** A diferencia de la semana 4, donde 4 de 5 participantes eran de ingeniería, esta ronda incluyó programas de fuera de ingeniería.
+**Tipo de usuarios consultados: estudiantes de distintas ingenierías, 2 de Diseño Gráfico y 1 de Relaciones Internacionales.** A diferencia de la semana 4, donde 4 de 5 participantes eran de ingeniería, esta ronda incluyó programas de fuera de ingeniería.
 
 **Fecha o fechas de las pruebas:** Semana 5   
 
@@ -63,11 +63,11 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 **¿Qué ocurrió?**
 
-- El cambio de "Aplicar" a "Postularme", junto con la separación clara respecto al botón "Seguir", eliminó la confusión que tuvieron varios usuarios en la semana 4 sobre si ese botón postulaba a un proyecto o aplicaba una configuración. Ninguno dudó esta vez sobre qué hacía cada botón. Una participante describió por anticipado el comportamiento exacto: "esperaba que mi solicitud se enviara al líder del proyecto y que apareciera una confirmación", y confirmó que eso fue lo que pasó.
+- El cambio de "Aplicar" a "Postularme", junto con la separación clara respecto al botón "Seguir", eliminó la confusión que tuvieron varios usuarios en la semana 4 sobre si ese botón postulaba a un proyecto o aplicaba una configuración. Ninguno dudó esta vez sobre qué hacía cada botón. Una participante describió por anticipado el comportamiento exacto: "esperaba que mi solicitud se enviara al líder del proyecto y que apareciera una confirmación", y confirmó que eso fue lo que pasó. Otra participante, en cambio, esperaba algo distinto: que "Postularme" abriera una especie de encuesta para recolectar datos y confirmar que de verdad podía aportar al proyecto; no reportó confusión al usar el flujo real, pero muestra que no todos anticipan el mismo mecanismo.
 
 **¿Qué significa?**
 
-- Confirma que el problema de la semana 4 era principalmente de nomenclatura (nombre del botón), no de ubicación o diseño visual.
+- Confirma que el problema de la semana 4 era principalmente de nomenclatura (nombre del botón), no de ubicación o diseño visual. La expectativa de una validación previa tipo encuesta es un dato aislado por ahora, pero vale la pena tenerlo presente si en el futuro se evalúa agregar algún filtro antes de postularse.
 
 ### Hallazgo 3
 
@@ -89,7 +89,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - El estudiante de Industrial preguntó si el cierre del reclutamiento (cuando se llena el cupo del equipo) es automático o depende de que el líder lo cierre manualmente, ya que no le quedó claro.
 
-- Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), cuando el criterio real de la pestaña son las habilidades e intereses del perfil, no el programa académico. Otra participante sí lo interpretó correctamente ("parecen estar seleccionados de acuerdo con las habilidades e intereses que uno registra en el perfil"), así que el criterio se adivina pero no siempre bien.
+- Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), cuando el criterio real de la pestaña son las habilidades e intereses del perfil, no el programa académico. Otra participante sí lo interpretó correctamente ("parecen estar seleccionados de acuerdo con las habilidades e intereses que uno registra en el perfil"), y una tercera se acercó también al criterio correcto ("probablemente son los que se alinean con los intereses del usuario que navega en la app"), así que el criterio se adivina, y más veces bien que mal, pero no de forma unánime.
 
 - Una participante echó de menos información del proyecto antes de decidir si unirse: "me hubiera gustado encontrar más información sobre cada proyecto, como una descripción más detallada, los objetivos y qué actividades tendría que realizar como integrante". El detalle actual muestra descripción, habilidades requeridas y equipo, pero no qué se espera concretamente de quien entra.
 
@@ -101,7 +101,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 ¿Qué elementos parecieron útiles, claros o valiosos para los usuarios?
 
-- El onboarding de bienvenida con los 3 pasos explicando el propósito de la app antes de ver proyectos (destacado por Sistemas y Diseño Gráfico). Una nueva participante, tras ver ese onboarding, describió correctamente qué es la app y para qué sirve ("propuestas de proyectos dentro de la u, que le permite a los estudiantes unirse a o crear sus propios proyectos, llevando registro del progreso, responsables de actividades, etc."), justo el problema detectado en la semana 4.
+- El onboarding de bienvenida con los 3 pasos explicando el propósito de la app antes de ver proyectos (destacado por Sistemas y Diseño Gráfico). Una nueva participante, tras ver ese onboarding, describió correctamente qué es la app y para qué sirve ("propuestas de proyectos dentro de la u, que le permite a los estudiantes unirse a o crear sus propios proyectos, llevando registro del progreso, responsables de actividades, etc."), justo el problema detectado en la semana 4. Otra participante más, antes de recibir ninguna instrucción, también describió el propósito correctamente ("una app en donde se exponen proyectos de cualquier tipo, sirve para encontrar qué proyecto se alinea más a mis intereses y participar en él").
 
 - La barra de navegación inferior con acceso directo a "Mis proyectos" y el botón central de "Crear", que resuelve el problema de no poder volver a encontrar la idea propia publicada.
 
@@ -113,7 +113,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - El botón "Postularme" generó exactamente la reacción esperada en dos nuevas participantes, que anticiparon correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó. El estado "Pendiente" tras postularse les hizo entender que la solicitud fue enviada y está esperando revisión del líder.
 
-- La facilidad para encontrar dónde crear una idea, que en la semana 4 fue un hallazgo: una participante señaló que "las opciones de publicar y explorar proyectos se visualizan fácilmente" y calificó el recorrido completo con 5 de 5.
+- La facilidad para encontrar dónde crear una idea, que en la semana 4 fue un hallazgo: una participante señaló que "las opciones de publicar y explorar proyectos se visualizan fácilmente" y calificó el recorrido completo con 5 de 5. Otra participante también calificó el recorrido con 5 de 5 y no reportó ningún momento de confusión.
 
 ---
 
@@ -131,6 +131,8 @@ Registren frases importantes de los usuarios.
 
 > "Me hubiera gustado encontrar más información sobre cada proyecto, como una descripción más detallada, los objetivos y qué actividades tendría que realizar como integrante."
 
+> "A primera vista pienso que es una app en donde se exponen proyectos de cualquier tipo, sirve para encontrar qué proyecto se alinea más a mis intereses y participar en él." Respuesta a la primera pregunta, antes de recibir ninguna instrucción
+
 ---
 
 ## Hipótesis confirmadas y no confirmadas
@@ -147,11 +149,13 @@ Registren frases importantes de los usuarios.
 
 ### No confirmadas
 
-- No está confirmado que los usuarios entiendan de forma natural, sin ayuda, la diferencia entre "Para tus habilidades" y "Explorar proyectos". La evidencia quedó dividida: una participante dedujo el criterio correcto (habilidades e intereses del perfil), otra lo atribuyó al programa académico y un tercero no distinguió las dos pestañas hasta entrar a ambas.
+- No está confirmado que los usuarios entiendan de forma natural, sin ayuda, la diferencia entre "Para tus habilidades" y "Explorar proyectos". La evidencia quedó dividida: dos participantes se acercaron al criterio correcto (habilidades e intereses del perfil), una lo atribuyó al programa académico y otra no distinguió las dos pestañas hasta entrar a ambas.
 
 - No está confirmado si tener tres mecanismos de retroalimentación en paralelo (encuestas, comentarios, vitrina con calificación) resulta útil o redundante para el usuario final.
 
 - No está confirmado si la información que hoy muestra el detalle de un proyecto basta para decidir si unirse. Una participante pidió objetivos y actividades concretas del rol, que el prototipo no ofrece.
+
+- No está confirmado que el modelo actual de "Postularme" (solicitud + confirmación) sea suficiente para todos los perfiles; una participante esperaba algún tipo de validación previa (tipo encuesta) antes de confirmar la postulación, aunque esto no le generó confusión al usar el prototipo.
 
 ---
 

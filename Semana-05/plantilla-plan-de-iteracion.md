@@ -59,6 +59,8 @@ Clasifiquen los cambios propuestos.
 
 - Agregar un calendario o vista consolidada de tareas pendientes de todos los proyectos en los que participa el usuario, para no tener que entrar a cada proyecto por separado (sugerido por una participante en la validación de la semana 5).
 
+- Incorporar contenido que dé prueba social a un proyecto: imágenes de resultados de proyectos anteriores, flyers de eventos relacionados y reseñas de participantes pasados, para generar más conexión con quien está decidiendo si unirse (sugerido por una participante en la validación de la semana 5).
+
 ---
 
 ## Decisión del equipo
