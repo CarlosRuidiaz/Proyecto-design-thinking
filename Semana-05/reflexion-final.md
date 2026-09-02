@@ -13,6 +13,8 @@
 ¿Cómo cambió su comprensión del problema desde la semana 1 hasta la semana 5?
 
 - En la semana 1 entendíamos el problema como una barrera de acceso: a los estudiantes les daba miedo exponer una idea incompleta y les costaba encontrar colaboradores fuera de su círculo cercano. Con las validaciones fuimos viendo que el problema no era solo "falta de funciones" para publicar o buscar proyectos, sino cómo se comunica y organiza esa información. Pequeños detalles, como qué preguntas hacía el formulario o cómo se nombraba un botón, generaban tanta fricción como la ausencia de una función completa.
+- La prueba de la semana 4 nos mostró algo que ninguna entrevista nos había dicho: cinco de cinco personas recorrieron la aplicación sin ayuda y ninguna entendió qué era. Un sistema puede ser perfectamente navegable y aun así no comunicar para qué existe; son dos problemas distintos y estábamos resolviendo solo uno. Visto desde la semana 5, el problema ya no es "los estudiantes no encuentran con quién trabajar", sino que el ciclo completo de un proyecto universitario —proponerlo, entenderlo desde afuera, sumarse, avanzar en equipo y mostrar resultados— no tiene hoy ningún lugar donde ocurrir de forma visible.
+
 ---
 
 ## Lo que aprendimos de la solución
@@ -20,6 +22,9 @@
 ¿Qué descubrieron sobre los flujos y la solución integrada que decidieron prototipar?
 
 - Descubrimos que los flujos no funcionan de forma aislada: crear una idea, explorar proyectos, postularse, formar equipo y documentar avances están conectados, y una falla en uno (como no poder volver a encontrar tu propia idea) afecta la percepción de todos los demás. También aprendimos que agregar funciones nuevas (workspace, encuestas, vitrina de prototipos) resuelve unas necesidades, pero puede introducir nuevas dudas, como no saber para qué sirve cada mecanismo de retroalimentación si se agregan varios a la vez.
+
+- Otra cosa que descubrimos es que un dato de la interfaz puede verse bien y no significar nada. La barra de "avance del proyecto" mostraba un porcentaje que la persona escribía a mano al publicar un avance: dos miembros podían moverla en direcciones opuestas y nada lo impedía. Al preguntarnos de dónde debería salir ese número nos dimos cuenta de que teníamos tres cosas mezcladas en una sola barra: la etapa, que es cualitativa; los hitos, que son finitos y se cumplen; y los avances, que son bitácora. Cuando un dato de la interfaz no tiene un origen claro, el problema casi nunca es de la interfaz: es que faltaba separar dos conceptos que parecían uno.
+
 
 ---
 
@@ -36,6 +41,8 @@
 ¿Cuál es la decisión más importante que toma el equipo después de esta etapa?
 
 - Mantener la estructura general del prototipo integrado y enfocar la siguiente iteración en pulir detalles de claridad (nombres de secciones, estados del sistema, cantidad de mecanismos de retroalimentación) en lugar de replantear el enfoque del producto, ya que la evidencia recogida hasta ahora respalda la dirección tomada.
+
+- Esta decisión implica dejar de tratar el prototipo como una maqueta de dos flujos y convertirlo en la base real de la implementación en Flutter. Pasó de 5 pantallas a 33 y ahora cubre los nueve grupos de requisitos del enunciado, cuando al cerrar la semana 4 cubría dos.
 
 ---
 
