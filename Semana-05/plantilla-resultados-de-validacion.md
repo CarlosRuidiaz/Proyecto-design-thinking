@@ -26,7 +26,7 @@ Describan brevemente la versión del prototipo que mostraron en esta nueva valid
 
 Se mostró el prototipo integrado "Innovation Hub" (33 pantallas), que ya incluye onboarding, exploración de proyectos con dos vistas ("Para tus habilidades" y "Explorar proyectos"), creación de idea por secciones, postulación y gestión de equipo, espacio de trabajo (workspace) con avances/tareas/galería, y un módulo de validación social (encuestas y vitrina de prototipos con retroalimentación).
 
-**Enlace al prototipo en Figma:**
+**Enlace al prototipo en Figma:** https://www.figma.com/proto/WffkIQ3gkDkkGvudgIFaSE/Semana-5-prototipo?node-id=8-1514&p=f&t=96qhywj7QGBmfssB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A22
 
 ¿Qué cambios importantes incorporaron desde la semana 4?
 
