@@ -42,7 +42,7 @@ Clasifiquen los cambios propuestos.
 
 ### Ideas para más adelante
 
-- Explorar mensajería directa entre líder y postulante antes de aceptar o rechazar una postulación.
+- Explorar la posibilidad mensajería directa entre líder y postulante antes de aceptar o rechazar una postulación, así como para responder dudas antes de aplicar.
 
 - Explorar algún tipo de reconocimiento al completar hitos del proyecto.
 
@@ -58,10 +58,8 @@ Después de validar, ¿qué decisión toman?
 
 - Mantener la estructura general y mejorar detalles.
 - Ajustar algunos flujos importantes.
-- Replantear parte de la integración entre flujos.
-- Cambiar el enfoque del problema.
 
-Expliquen brevemente por qué.
+Los participantes ya pueden realizar los flujos centrales sin confundirse, y ahora entienden el propósito de la app desde el primer momento. Las dudas detectadas son muy específicas y están más relacionadas con los nombres que tienen las pestañas y el nivel de detalle de la información, no con el flujo o la estructura de la app, por lo que es posible mantener la estructura general de la app y mejorar ciertos aspectos sugeridos en los demás flujos.
 
 
 ## Próximo paso
@@ -81,9 +79,6 @@ Expliquen brevemente por qué.
 Después de esta etapa, ¿cómo se encuentra el equipo?
 
 - Listo para pasar a una implementación inicial.
-- Necesita una iteración más antes de implementar.
-- Debe replantear una parte importante de la propuesta.
-
-Expliquen brevemente por qué.
+El prototipo,con los flujos integrados ya validados puede ser implementado. Durante este proceso, se resolverían ajustes especificos sugeridos como los nombres de las pestañas y algunas funcionalidades que nos mencionaron los partipantes de la validación. A este momento la app tiene una retroalimentación positiva en los puntos clave que queríamos resolver.
 
 
