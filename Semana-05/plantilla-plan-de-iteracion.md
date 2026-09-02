@@ -48,6 +48,8 @@ Clasifiquen los cambios propuestos.
 
 - Revisar si el módulo de encuestas podría integrarse dentro de la vitrina de prototipos en vez de ser una sección aparte.
 
+- Agregar un calendario o vista consolidada de tareas pendientes de todos los proyectos en los que participa el usuario, para no tener que entrar a cada proyecto por separado (sugerido por una participante en la validación de la semana 5).
+
 ---
 
 ## Decisión del equipo
@@ -83,7 +85,5 @@ Después de esta etapa, ¿cómo se encuentra el equipo?
 - Debe replantear una parte importante de la propuesta.
 
 Expliquen brevemente por qué.
-
-
 
 

@@ -86,7 +86,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - El estudiante de Industrial preguntó si el cierre del reclutamiento (cuando se llena el cupo del equipo) es automático o depende de que el líder lo cierre manualmente, ya que no le quedó claro.
 
--
+- Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), sin que esté confirmado si esa es una función real del sistema o una coincidencia. Vale la pena aclarar esto con el equipo antes de documentarlo como una función existente.
 
 ---
 
@@ -94,7 +94,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 ¿Qué elementos parecieron útiles, claros o valiosos para los usuarios?
 
-- El onboarding de bienvenida con los 3 pasos explicando el propósito de la app antes de ver proyectos (destacado por Sistemas y Diseño Gráfico).
+- El onboarding de bienvenida con los 3 pasos explicando el propósito de la app antes de ver proyectos (destacado por Sistemas y Diseño Gráfico). Una nueva participante, tras ver ese onboarding, describió correctamente qué es la app y para qué sirve ("propuestas de proyectos dentro de la u, que le permite a los estudiantes unirse a o crear sus propios proyectos, llevando registro del progreso, responsables de actividades, etc."), justo el problema detectado en la semana 4.
 
 - La barra de navegación inferior con acceso directo a "Mis proyectos" y el botón central de "Crear", que resuelve el problema de no poder volver a encontrar la idea propia publicada.
 
@@ -103,6 +103,8 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 - El sistema de hitos y tareas pendientes dentro del workspace, muy bien recibido por el estudiante de Industrial, quien lo comparó con una herramienta de gestión de proyectos real.
 
 - La gestión de postulantes mostrando las habilidades que cada persona aporta antes de aceptar o rechazar, elogiada por el estudiante de Sistemas.
+
+- El botón "Postularme" generó exactamente la reacción esperada en una nueva participante, quien anticipó correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó.
 
 ---
 
@@ -114,7 +116,7 @@ Registren frases importantes de los usuarios.
 
 > "El espacio de trabajo se siente como una herramienta pequeña de gestión de proyectos metida dentro de la app, eso ayuda mucho a no perder el hilo." Estudiante de Ingeniería Industrial
 
->
+> "Creo que la app es para propuestas de proyectos dentro de la u, que le permite a los estudiantes unirse a o crear sus propios proyectos, llevando registro del progreso, responsables de actividades, etc." Estudiante de Ingeniería de Sistemas
 
 ---
 
@@ -128,13 +130,15 @@ Registren frases importantes de los usuarios.
  
 - Ofrecer un acceso directo a la idea recién publicada resuelve el problema de no poder encontrarla después.
 
+- El onboarding de bienvenida ayuda a que los usuarios entiendan qué es la aplicación y para qué sirve, algo que en la semana 4 ningún participante lograba identificar a primera vista.
+
 ### No confirmadas
 
 - No está confirmado que los usuarios entiendan de forma natural, sin ayuda, la diferencia entre "Para tus habilidades" y "Explorar proyectos"; falta validarlo con más personas.
 
 - No está confirmado si tener tres mecanismos de retroalimentación en paralelo (encuestas, comentarios, vitrina con calificación) resulta útil o redundante para el usuario final.
 
-- 
+- No está confirmado si los usuarios entienden por qué ven ciertos proyectos específicos en la pantalla principal; una participante asumió personalización por carrera que no está verificada como función real del sistema.
 
 ---
 
@@ -150,7 +154,7 @@ Registren frases importantes de los usuarios.
 
 - Se resolvió que las categorías/tags no se reflejaran en el detalle del proyecto.
 
--
+- Un nuevo participante logró explicar correctamente qué es la aplicación y para qué sirve tras ver el onboarding, algo que ninguno de los participantes de la semana 4 pudo hacer a primera vista.
 
 ¿Qué problemas siguen presentes?
 
@@ -158,4 +162,4 @@ Registren frases importantes de los usuarios.
 
 - Sigue sin estar clara la distinción entre las dos formas de explorar proyectos ("Para tus habilidades" vs "Explorar proyectos"), esta vez porque la funcionalidad es nueva.
 
-- 
+- No es claro para los usuarios por qué aparecen ciertos proyectos específicos en la pantalla principal; una participante asumió que hay personalización por carrera, sin que esto esté confirmado.
