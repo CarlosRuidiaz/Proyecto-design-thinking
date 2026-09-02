@@ -2,9 +2,9 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo: Grupo 4**
 
-**Integrantes:**
+**Integrantes: Juan Bolívar, Claudia Elías, Juan Rojas, Carlos Ruidíaz**
 
 ---
 
@@ -12,11 +12,11 @@
 
 ¿Qué aspectos del prototipo integrado necesitan ajuste inmediato después de esta nueva validación?
 
-1.
+1. Aclarar la diferencia entre las pestañas "Para tus habilidades" y "Explorar proyectos", por ejemplo con una breve descripción visible la primera vez que el usuario entra a esa pantalla.
 
-2.
+2. Revisar el tratamiento visual de las imágenes en placeholder (tarjetas de proyecto y galería del workspace), para que no den sensación de producto incompleto.
 
-3.
+3. Definir con claridad si el cierre del reclutamiento del equipo debe ser automático al llegar al cupo máximo, o si se mantiene manual pero con un aviso más visible para el líder del proyecto.
 
 ---
 
@@ -26,27 +26,27 @@ Clasifiquen los cambios propuestos.
 
 ### Cambios urgentes
 
-- 
+- Diferenciar mejor las pestañas "Para tus habilidades" vs "Explorar proyectos".
 
-- 
+- Definir tratamiento de los placeholders de imagen en tarjetas y galería.
 
 - 
 
 ### Cambios importantes
 
-- 
+- Decidir si el cierre de reclutamiento es automático o manual, y hacerlo más visible.
 
-- 
+- Evaluar si conviene consolidar o simplificar los tres mecanismos de retroalimentación (encuestas, comentarios, panel con calificación).
 
 - 
 
 ### Ideas para más adelante
 
-- 
+- Explorar mensajería directa entre líder y postulante antes de aceptar o rechazar una postulación.
 
-- 
+- Explorar algún tipo de reconocimiento al completar hitos del proyecto.
 
-- 
+- Revisar si el módulo de encuestas podría integrarse dentro de la vitrina de prototipos en vez de ser una sección aparte.
 
 ---
 
@@ -61,13 +61,12 @@ Después de validar, ¿qué decisión toman?
 
 Expliquen brevemente por qué.
 
----
 
 ## Próximo paso
 
 ¿Qué debería hacer el equipo en la siguiente iteración o etapa de desarrollo?
 
-- 
+- Ajustar en Figma los cambios marcados como "urgentes" antes de la siguiente ronda de pruebas.
 
 - 
 
@@ -84,3 +83,7 @@ Después de esta etapa, ¿cómo se encuentra el equipo?
 - Debe replantear una parte importante de la propuesta.
 
 Expliquen brevemente por qué.
+
+
+
+
