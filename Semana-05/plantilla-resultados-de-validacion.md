@@ -12,9 +12,9 @@
 
 ## Pruebas realizadas
 
-**Cantidad de personas participantes: 6 usuarios**
+**Cantidad de personas participantes: 7 usuarios**
 
-**Tipo de usuarios consultados: 1 estudiante de Ingeniería de Sistemas, 1 estudiante de Diseño Gráfico, 1 estudiante de Ingeniería Industrial**
+**Tipo de usuarios consultados: 2 estudiante de Ingeniería de Sistemas, 1 estudiante de Diseño Gráfico, 1 estudiante de Ingeniería Industrial**
 
 **Fecha o fechas de las pruebas: Semana 5   **
 
@@ -32,13 +32,13 @@ Se mostró el prototipo integrado "Innovation Hub" (33 pantallas), que ya incluy
 
 - El formulario de crear idea se dividió en 3 secciones (Lo esencial, El equipo que buscas, Dale contexto) con barra de progreso, y se fusionaron los campos "objetivo del proyecto" y "público objetivo" en un solo campo de "Descripción".
 
-- El botón "Aplicar" se renombró a "Postularme" y se separó visualmente del botón "Seguir".
+- El botón "Aplicar" se renombró a "Postularme" y se separó visualmente del botón "Seguir". Con la versión de "Aplicar" nos indicaron que no era claro la función del botón.
 
 - Se agregó una pantalla de confirmación tras publicar una idea con acceso directo a "Ver mi idea publicada", y una barra de navegación inferior fija con la pestaña "Mis proyectos".
 
 - Las pantallas de detalle de proyecto ahora muestran los tags/categorías del proyecto de forma visible.
 
-- Se agregó un onboarding de bienvenida que explica en 3 puntos para qué sirve la app antes de mostrar proyectos.
+- Se agregó un onboarding de bienvenida que explica en 3 puntos para qué sirve la app antes de mostrar proyectos. En la semana 4 notamos que no era fácil para los usuarios identificar el propósito de la aplicación y por eso esta vez, se agregó onboarding.
 
 ---
 
@@ -88,6 +88,8 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), sin que esté confirmado si esa es una función real del sistema o una coincidencia. Vale la pena aclarar esto con el equipo antes de documentarlo como una función existente.
 
+- Una de las participantes indicó "Tuve la necesidad de explorar un poco al inicio para ubicar todas las opciones", aunque aclaró que no fue un bloqueo real, solo para comprender como navegar.
+
 ---
 
 ## Reacciones positivas
@@ -104,7 +106,8 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - La gestión de postulantes mostrando las habilidades que cada persona aporta antes de aceptar o rechazar, elogiada por el estudiante de Sistemas.
 
-- El botón "Postularme" generó exactamente la reacción esperada en una nueva participante, quien anticipó correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó.
+- El botón "Postularme" generó exactamente la reacción esperada en dos nuevas participantes, quienes anticipó correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó.
+El estado "Pendiente" tras postularse les hizo entender correctamente que la solicitud fue enviada y está esperando revisión del líder. Esta vez fue más claro.
 
 ---
 
@@ -154,12 +157,12 @@ Registren frases importantes de los usuarios.
 
 - Se resolvió que las categorías/tags no se reflejaran en el detalle del proyecto.
 
-- Un nuevo participante logró explicar correctamente qué es la aplicación y para qué sirve tras ver el onboarding, algo que ninguno de los participantes de la semana 4 pudo hacer a primera vista.
+- La mayoría de participantes logró explicar correctamente qué es la aplicación y para qué sirve tras ver el onboarding, algo que ninguno de los participantes de la semana 4 pudo hacer a primera vista.
 
 ¿Qué problemas siguen presentes?
 
 - Aparece un riesgo nuevo: posible sobrecarga de mecanismos de retroalimentación (encuestas + comentarios + vitrina).
 
-- Sigue sin estar clara la distinción entre las dos formas de explorar proyectos ("Para tus habilidades" vs "Explorar proyectos"), esta vez porque la funcionalidad es nueva.
+- Sigue sin estar clara para algunos participantes la distinción entre las dos formas de explorar proyectos ("Para tus habilidades" vs "Explorar proyectos"), esta vez porque la funcionalidad es nueva.
 
-- No es claro para los usuarios por qué aparecen ciertos proyectos específicos en la pantalla principal; una participante asumió que hay personalización por carrera, sin que esto esté confirmado.
+- No es claro para los usuarios por qué aparecen ciertos proyectos específicos en la pantalla principal; una participante asumió que hay personalización por carrera, sin que esto esté confirmado para ellos.
