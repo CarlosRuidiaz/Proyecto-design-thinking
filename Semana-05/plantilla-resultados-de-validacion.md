@@ -12,11 +12,11 @@
 
 ## Pruebas realizadas
 
-**Cantidad de personas participantes: 7 usuarios**
+**Cantidad de personas participantes: 8 personas**
 
-**Tipo de usuarios consultados: 2 estudiante de Ingeniería de Sistemas, 1 estudiante de Diseño Gráfico, 1 estudiante de Ingeniería Industrial**
+**Tipo de usuarios consultados: estudiantes de Ingeniería de Sistemas, Ingeniería Industrial y Diseño Gráfico.** A diferencia de la semana 4, donde 4 de 5 participantes eran de ingeniería, esta ronda incluyó programas de fuera de ingeniería.
 
-**Fecha o fechas de las pruebas: Semana 5   **
+**Fecha o fechas de las pruebas:** Semana 5   
 
 ---
 
@@ -39,6 +39,9 @@ Se mostró el prototipo integrado "Innovation Hub" (33 pantallas), que ya incluy
 - Las pantallas de detalle de proyecto ahora muestran los tags/categorías del proyecto de forma visible.
 
 - Se agregó un onboarding de bienvenida que explica en 3 puntos para qué sirve la app antes de mostrar proyectos. En la semana 4 notamos que no era fácil para los usuarios identificar el propósito de la aplicación y por eso esta vez, se agregó onboarding.
+- Quedaron diseñados los estados que no son el camino ideal —lista vacía, error de carga y contenido guardado sin conexión— que exigen los requisitos no funcionales.
+- Se corrigió un problema de fondo en el avance del proyecto: antes la barra de progreso mostraba un porcentaje que la persona escribía a mano al publicar un avance, así que no significaba nada y podía retroceder. Ahora el porcentaje se calcula sobre los hitos cumplidos del proyecto (3 de 5 = 60%), y los avances son bitácora que puede marcar un hito como cumplido.
+
 
 ---
 
@@ -50,7 +53,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 **¿Qué ocurrió?**
 
-- Los tres participantes coincidieron en que el nuevo formulario de crear idea ya no se siente repetitivo. El estudiante de Sistemas comentó que ahora entiende qué información va en cada campo; el de Diseño Gráfico dijo que dividir el formulario en tres secciones ayuda a no sentir que hay que llenar todo de golpe.
+- Los participantes coincidieron en que el nuevo formulario de crear idea ya no se siente repetitivo. El estudiante de Sistemas comentó que ahora entiende qué información va en cada campo; el de Diseño Gráfico dijo que dividir el formulario en tres secciones ayuda a no sentir que hay que llenar todo de golpe.
 
 **¿Qué significa?**
 
@@ -60,7 +63,7 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 **¿Qué ocurrió?**
 
-- El cambio de "Aplicar" a "Postularme", junto con la separación clara respecto al botón "Seguir", eliminó la confusión que tuvieron varios usuarios en la semana 4 sobre si ese botón postulaba a un proyecto o aplicaba una configuración. Ninguno de los tres dudó esta vez sobre qué hacía cada botón.
+- El cambio de "Aplicar" a "Postularme", junto con la separación clara respecto al botón "Seguir", eliminó la confusión que tuvieron varios usuarios en la semana 4 sobre si ese botón postulaba a un proyecto o aplicaba una configuración. Ninguno dudó esta vez sobre qué hacía cada botón. Una participante describió por anticipado el comportamiento exacto: "esperaba que mi solicitud se enviara al líder del proyecto y que apareciera una confirmación", y confirmó que eso fue lo que pasó.
 
 **¿Qué significa?**
 
@@ -86,7 +89,9 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - El estudiante de Industrial preguntó si el cierre del reclutamiento (cuando se llena el cupo del equipo) es automático o depende de que el líder lo cierre manualmente, ya que no le quedó claro.
 
-- Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), sin que esté confirmado si esa es una función real del sistema o una coincidencia. Vale la pena aclarar esto con el equipo antes de documentarlo como una función existente.
+- Una nueva participante (estudiante de Ingeniería de Sistemas) asumió que los proyectos mostrados en la pantalla principal están personalizados según su carrera ("identifica que soy estudiante de sistemas y me da proyectos relacionados a mi carrera"), cuando el criterio real de la pestaña son las habilidades e intereses del perfil, no el programa académico. Otra participante sí lo interpretó correctamente ("parecen estar seleccionados de acuerdo con las habilidades e intereses que uno registra en el perfil"), así que el criterio se adivina pero no siempre bien.
+
+- Una participante echó de menos información del proyecto antes de decidir si unirse: "me hubiera gustado encontrar más información sobre cada proyecto, como una descripción más detallada, los objetivos y qué actividades tendría que realizar como integrante". El detalle actual muestra descripción, habilidades requeridas y equipo, pero no qué se espera concretamente de quien entra.
 
 - Una de las participantes indicó "Tuve la necesidad de explorar un poco al inicio para ubicar todas las opciones", aunque aclaró que no fue un bloqueo real, solo para comprender como navegar.
 
@@ -106,8 +111,9 @@ Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 - La gestión de postulantes mostrando las habilidades que cada persona aporta antes de aceptar o rechazar, elogiada por el estudiante de Sistemas.
 
-- El botón "Postularme" generó exactamente la reacción esperada en dos nuevas participantes, quienes anticipó correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó.
-El estado "Pendiente" tras postularse les hizo entender correctamente que la solicitud fue enviada y está esperando revisión del líder. Esta vez fue más claro.
+- El botón "Postularme" generó exactamente la reacción esperada en dos nuevas participantes, que anticiparon correctamente "un mensaje de 'ya te postulaste', así como el que sale ya en la app", confirmando de nuevo que el cambio de nombre funcionó. El estado "Pendiente" tras postularse les hizo entender que la solicitud fue enviada y está esperando revisión del líder.
+
+- La facilidad para encontrar dónde crear una idea, que en la semana 4 fue un hallazgo: una participante señaló que "las opciones de publicar y explorar proyectos se visualizan fácilmente" y calificó el recorrido completo con 5 de 5.
 
 ---
 
@@ -120,6 +126,10 @@ Registren frases importantes de los usuarios.
 > "El espacio de trabajo se siente como una herramienta pequeña de gestión de proyectos metida dentro de la app, eso ayuda mucho a no perder el hilo." Estudiante de Ingeniería Industrial
 
 > "Creo que la app es para propuestas de proyectos dentro de la u, que le permite a los estudiantes unirse a o crear sus propios proyectos, llevando registro del progreso, responsables de actividades, etc." Estudiante de Ingeniería de Sistemas
+
+> "Creo que es una plataforma para publicar ideas de proyectos y encontrar estudiantes de otras carreras que tengan las habilidades necesarias para formar un equipo o que estén realizando proyectos de interés." Respuesta a la primera pregunta, antes de recibir ninguna instrucción
+
+> "Me hubiera gustado encontrar más información sobre cada proyecto, como una descripción más detallada, los objetivos y qué actividades tendría que realizar como integrante."
 
 ---
 
@@ -137,11 +147,11 @@ Registren frases importantes de los usuarios.
 
 ### No confirmadas
 
-- No está confirmado que los usuarios entiendan de forma natural, sin ayuda, la diferencia entre "Para tus habilidades" y "Explorar proyectos"; falta validarlo con más personas.
+- No está confirmado que los usuarios entiendan de forma natural, sin ayuda, la diferencia entre "Para tus habilidades" y "Explorar proyectos". La evidencia quedó dividida: una participante dedujo el criterio correcto (habilidades e intereses del perfil), otra lo atribuyó al programa académico y un tercero no distinguió las dos pestañas hasta entrar a ambas.
 
 - No está confirmado si tener tres mecanismos de retroalimentación en paralelo (encuestas, comentarios, vitrina con calificación) resulta útil o redundante para el usuario final.
 
-- No está confirmado si los usuarios entienden por qué ven ciertos proyectos específicos en la pantalla principal; una participante asumió personalización por carrera que no está verificada como función real del sistema.
+- No está confirmado si la información que hoy muestra el detalle de un proyecto basta para decidir si unirse. Una participante pidió objetivos y actividades concretas del rol, que el prototipo no ofrece.
 
 ---
 
@@ -157,7 +167,9 @@ Registren frases importantes de los usuarios.
 
 - Se resolvió que las categorías/tags no se reflejaran en el detalle del proyecto.
 
-- La mayoría de participantes logró explicar correctamente qué es la aplicación y para qué sirve tras ver el onboarding, algo que ninguno de los participantes de la semana 4 pudo hacer a primera vista.
+- La mayoría de participantes logró explicar correctamente qué es la aplicación y para qué sirve tras ver el onboarding, algo que ninguno de los participantes de la semana 4 pudo hacer a primera vista. Es el hallazgo unánime de la semana anterior y el que más pesaba.
+  
+- Se resolvió que no se encontrara el botón de crear una idea: nadie preguntó dónde se publica, y una participante lo mencionó espontáneamente como algo que se ve con facilidad.
 
 ¿Qué problemas siguen presentes?
 
@@ -165,4 +177,6 @@ Registren frases importantes de los usuarios.
 
 - Sigue sin estar clara para algunos participantes la distinción entre las dos formas de explorar proyectos ("Para tus habilidades" vs "Explorar proyectos"), esta vez porque la funcionalidad es nueva.
 
-- No es claro para los usuarios por qué aparecen ciertos proyectos específicos en la pantalla principal; una participante asumió que hay personalización por carrera, sin que esto esté confirmado para ellos.
+- No es claro por qué aparecen ciertos proyectos y no otros en la pantalla principal. El criterio existe y está escrito en la pantalla, pero se lee como una suposición de cada quien y no como una regla del sistema.
+
+- El detalle del proyecto no dice qué se espera de quien se une. Es la misma necesidad de "información transparente antes de unirse" que el equipo detectó en la semana 2 y dejó fuera del alcance, y que ahora un usuario volvió a pedir.
